@@ -97,3 +97,6 @@ Score: 5/5
 ```
 
 ---
+### Screenshots
+![Screenshot 1](images/1.jpg)
+![Screenshot 2](images/2.jpg)
